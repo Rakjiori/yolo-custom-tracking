@@ -1,0 +1,56 @@
+{
+  "video1": {
+    "v1": {
+      "frames": 255,
+      "detected_frames": 198,
+      "multi_box_frames": 0,
+      "mean_conf": 0.843,
+      "num_ids": 1,
+      "ids": {
+        "1": 192
+      }
+    },
+    "v2": {
+      "frames": 255,
+      "detected_frames": 195,
+      "multi_box_frames": 0,
+      "mean_conf": 0.908,
+      "num_ids": 3,
+      "ids": {
+        "1": 62,
+        "9": 129,
+        "10": 1
+      }
+    }
+  },
+  "video3": {
+    "v1": {
+      "frames": 230,
+      "detected_frames": 226,
+      "multi_box_frames": 84,
+      "mean_conf": 0.64,
+      "num_ids": 6,
+      "ids": {
+        "1": 99,
+        "2": 104,
+        "4": 24,
+        "5": 2,
+        "7": 61,
+        "8": 24
+      }
+    },
+    "v2": {
+      "frames": 230,
+      "detected_frames": 214,
+      "multi_box_frames": 67,
+      "mean_conf": 0.768,
+      "num_ids": 4,
+      "ids": {
+        "1": 112,
+        "3": 102,
+        "7": 65,
+        "8": 11
+      }
+    }
+  }
+}
